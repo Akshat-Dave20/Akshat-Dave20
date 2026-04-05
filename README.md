@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Akshat Dave</h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+System...;[OK]+System+Loaded...;%3E_+Welcome_to_my_GithubId;akshat_dave;+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
@@ -9,9 +11,9 @@
 
 </div>
 <br>
-
+<div align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150" alt="About Me">
-
+</div>
 I am expanding my knowledge in both backend development and advanced **Cybersecurity**. I actively build projects ranging from **Port Scanners** to **Steganography Tools** and a **Digital Pass Smart Card** identity system. I'm always looking to dive deeper into securing the digital Security.
 
 - 🧙‍♂️ I’m currently learning ... **Ethical Hacking**, **Network Security**, **Python**
