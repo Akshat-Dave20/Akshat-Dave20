@@ -7,7 +7,6 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/OS-Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=326CE5" alt="OS Badge" />
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Terminal Badge" />
 
 </div>
 <br>
